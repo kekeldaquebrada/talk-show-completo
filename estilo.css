@@ -1,0 +1,45 @@
+body{
+    background-color: cornflowerblue ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-size: xx-large;
+}
+p{
+    text-align: center;
+    color: aliceblue;
+    font-size: x-large ;
+}
+form{
+    text-align: center
+
+}
+
+    
+h2{
+    text-align: center;
+    color: darkorange;
+    font-size: 100px;
+}
+#botao{
+    
+    
+}
+
+
+button{
+    margin: 80px;
+padding: 10px;
+    font-size: 15px;
+
+    text-align: center;
+    color: rgb(0, 0, 0);
+    border: 3px solid #0510a7;
+    border-radius: 6%;
+}  
+#botao{
+    text-align: center;
+}
